@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:fanmouren001@gmail.com">
-    <img src="https://img.shields.io/badge/fanmouren001@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:575552896@qq.com">
+    <img src="https://img.shields.io/badge/575552896%40qq.com-EA4335?style=flat-square" alt="Email" />
   </a>
   <a href="https://github.com/jiyuanxiaotuling">
     <img src="https://img.shields.io/badge/jiyuanxiaotuling-181717?style=flat-square&logo=github" alt="GitHub" />
@@ -25,7 +25,7 @@
 - 🎓 Currently pursuing a master's degree in **Software Engineering** at **Nankai University**.
 - 🧠 Working on **Software Engineering, Multimodal Large Language Models, and AI Agents**.
 - 🧩 I enjoy turning ideas into complete systems — from **model fine-tuning** to **front-end & back-end engineering**.
-- 📫 How to reach me: **fanmouren001@gmail.com**
+- 📫 How to reach me: **575552896@qq.com**
 
 ## 🩺 Featured Project
 
